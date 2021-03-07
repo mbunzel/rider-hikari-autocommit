@@ -1,0 +1,10 @@
+BOOKS:
+  - ID: 1
+    Name: "Test Book 1"
+    ISBN: "123456"
+  - ID: 2
+    Name: "Test Book 2"
+    ISBN: "654312"
+  - ID: 3
+    Name: "Test Book 3"
+    ISBN: "987465"
